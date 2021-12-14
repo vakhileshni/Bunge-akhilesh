@@ -1,0 +1,37 @@
+total 10822
+-rw-r--r-- 1 UAKHPAL 1049089    5423 Jun  9 09:56 agent7.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089   37361 Jun  9 23:33 Master.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089    9420 Jun 10 01:12 Format.xlsx
+drwxr-xr-x 1 UAKHPAL 1049089       0 Jun 19 13:08 New folder/
+-rw-r--r-- 1 UAKHPAL 1049089 2511542 Jun 27 05:45 product.csv
+-rw-r--r-- 1 UAKHPAL 1049089  264226 Jun 27 06:06 Product1.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089   12598 Jun 29 10:36 Agent.py
+-rw-r--r-- 1 UAKHPAL 1049089     182 Jul  1 19:26 SVO.ps1
+-rw-r--r-- 1 UAKHPAL 1049089    1506 Jul  1 19:39 hhhh.py
+-rw-r--r-- 1 UAKHPAL 1049089     674 Jul  1 19:44 Dataquery.py
+-rw-r--r-- 1 UAKHPAL 1049089     513 Jul  1 23:37 hi.py
+-rw-r--r-- 1 UAKHPAL 1049089    9493 Jul  2 02:57 Noattendence.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089    3746 Jul  3 13:55 Try.py
+-rw-r--r-- 1 UAKHPAL 1049089   52786 Jul 13 12:43 User Master.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089   11828 Jul 27 12:24 New user.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089   14593 Aug  2 09:56 productivity.py
+-rw-r--r-- 1 UAKHPAL 1049089    3535 Aug  4 10:27 atten.py
+-rw-r--r-- 1 UAKHPAL 1049089     333 Aug 23 12:47 Beat.py
+drwxr-xr-x 1 UAKHPAL 1049089       0 Aug 23 14:19 Hi/
+-rw-r--r-- 1 UAKHPAL 1049089    9028 Aug 25 12:00 Beat.xlsx
+drwxr-xr-x 1 UAKHPAL 1049089       0 Aug 25 12:04 Beat/
+-rw-r--r-- 1 UAKHPAL 1049089  514041 Aug 25 12:29 Beat_Plan.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089 1577020 Sep  2 09:45 B2C_agent.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089   44480 Sep  2 09:50 FFDSM.xlsx.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089    7376 Sep  2 09:50 Final.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089 1401379 Sep  2 09:51 daily.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089 1400856 Sep  2 09:51 Monthly_Agent.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089   49758 Sep  2 10:00 Not_working_poeple 01-09-2021.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089   37955 Sep  2 10:03 managername.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089   65282 Sep  2 10:03 atten.csv
+-rw-r--r-- 1 UAKHPAL 1049089   26078 Sep  2 10:03 atten1.csv
+-rw-r--r-- 1 UAKHPAL 1049089   27558 Sep  2 10:03 atten.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089 2697059 Sep  2 10:07 Sales Productivity Report_B2C 01-09-2021.xlsm
+-rw-r--r-- 1 UAKHPAL 1049089   90718 Sep  2 10:10 attendence.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089   94370 Sep  2 10:13 Daily_Attendance_Report 02-09-2021.xlsx
+-rw-r--r-- 1 UAKHPAL 1049089       0 Sep  2 17:49 helloooo.txt
